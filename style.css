@@ -9,7 +9,7 @@
     --azul-botao:#167BF7;
     --cor-de-fundo:#00030C;
     --fonte-principal:'inter';
-    --botao-efeito-azul: #2573d2;
+    --botao-efeito-azul:#c577b8;
      
      
 }
@@ -18,7 +18,7 @@ body {
     background-color: var(--cor-de-fundo);
     color: var(--branco-primaria);
     font-family: var(--fonte-principal);
-    font-size: 16px;
+    font-size:16px;
 }
 
 
